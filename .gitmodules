@@ -1,6 +1,7 @@
 [submodule "dmlc-core"]
 	path = 3rdparty/dmlc-core
-	url = https://github.com/dmlc/dmlc-core
+	url = https://github.com/leezu/dmlc-core
+	branch = omp
 [submodule "dlpack"]
 	path = 3rdparty/dlpack
 	url = https://github.com/dmlc/dlpack
